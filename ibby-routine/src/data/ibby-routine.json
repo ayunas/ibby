@@ -1,0 +1,14 @@
+[
+    {
+        "number" : 1,
+        "task" : "Wake Up",
+        "description" : "It's a new day!!!",
+        "picture" : "https://previews.123rf.com/images/hermandesign2015/hermandesign20151901/hermandesign2015190100359/116415018-a-boy-wake-up-and-stretching-in-morning.jpg"
+    },
+    {
+        "number" : 2,
+        "task" : "Morning Dua",
+        "description" : "الحمد لله الذي أحيانا بعد ما أماتنا و إليه النشور",
+        "picture" : "https://clip.cookdiary.net/sites/default/files/wallpaper/quran-clipart/177372/quran-clipart-islamic-classroom-177372-2660944.jpg"
+    } 
+]
